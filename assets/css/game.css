@@ -2,6 +2,8 @@ body {
     color: #fff;
 }
 
+
+
 .choice-container {
     display: flex;
     margin-bottom: 0.8rem;
@@ -53,13 +55,15 @@ body {
 
 .hud-main-text {
     text-align: center;
+    margin-top: 8rem;
 }
 
 #progressBar {
     width: 20rem;
     height: 3rem;
+   
     border: 0.2rem solid rgb(11, 223, 36);
-    margin-top: 2rem;
+    margin-top: 9rem;
     border-radius: 50px;
     overflow: hidden;
 }

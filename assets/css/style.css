@@ -73,7 +73,7 @@ h2 {
     transform: scale(1.03);
 }
 
-.btn[:disabled]:hover {
+.btn[disabled]:hover {
     cursor: not-allowed;
     box-shadow: none;
     transform: none;
